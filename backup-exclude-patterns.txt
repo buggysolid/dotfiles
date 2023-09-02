@@ -1,0 +1,12 @@
+*.iso
+*.tar.gz
+*.gz
+*.lib
+*.so
+*.deb
+*.rpm
+*.AppImage
+*.tar
+/home/cs/snap/
+/home/cs/.local/
+/home/cs/.config/
